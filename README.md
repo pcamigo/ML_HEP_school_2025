@@ -14,7 +14,8 @@ Any questions, feel free to contact me pia.amigo@usm.cl
 You can open any notebook in Google Colab for easy access and execution. Just click the **"Open in Colab"** badge next to each notebook:
 
 - **Notebook 1: Example of DBSCAN** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/DBSCAN_example.ipynb)  
-- **Notebook 2: Membership_DBSCAN** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/Membership_DBSCAN.ipynb)
+- **Notebook 2: Open cluster membership with DBSCAN** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/Membership_DBSCAN.ipynb)
+- **Notebook 3: Membership solutions** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/Membership_DBSCAN_solutions.ipynb)
 
 ---
 
