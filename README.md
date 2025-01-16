@@ -13,9 +13,16 @@ Any questions, feel free to contact me pia.amigo@usm.cl
 ### **Option 1: Open in Google Colab**
 You can open any notebook in Google Colab for easy access and execution. Just click the **"Open in Colab"** badge next to each notebook:
 
+Wednesday 15:
+
 - **Notebook 1: Example of DBSCAN** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/DBSCAN_example.ipynb)  
 - **Notebook 2: Open cluster membership with DBSCAN** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/Membership_DBSCAN.ipynb)
 - **Notebook 3: Membership solutions** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/Membership_DBSCAN_solutions.ipynb)
+
+Thursday 16:
+- **Notebook 1: Photometric redshift** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/DT_RF_NN_PhotoZ.ipynb)
+- **Notebook 2: Photometric redshift** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/DT_RF_NN_PhotoZ_solutions.ipynb)  
+
 
 ---
 
