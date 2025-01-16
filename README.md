@@ -21,7 +21,7 @@ Wednesday 15:
 
 Thursday 16:
 - **Notebook 1: Photometric redshift** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/DT_RF_NN_PhotoZ.ipynb)
-- **Notebook 2: Photometric redshift (solutions)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/DT_RF_NN_PhotoZ_solutions.ipynb)  
+- **Notebook 2: Photometric redshift (solutions)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pcamigo/ML_HEP_school_2025/blob/main/notebooks/DT_RF_NN_PhotoZ_solucion.ipynb)  
 
 
 ---
